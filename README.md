@@ -20,5 +20,6 @@ Content
 Creator FK User.Id
 CreatedAt
 CoverImage
+```
 
 Uses [FrankenUI](https://franken-ui.dev/) to easily achieve an acceptable ui look
