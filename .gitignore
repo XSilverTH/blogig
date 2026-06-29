@@ -1,0 +1,6 @@
+.env
+.env.local
+.caddy/
+caddy_data/
+caddy_config/
+.idea/
